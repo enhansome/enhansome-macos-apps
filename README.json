@@ -1,0 +1,300 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Platypus",
+          "description": "Create Mac applications from command line scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-05-13T22:44:55Z",
+            "owner": "sveinbjornt",
+            "repo": "Platypus",
+            "stars": 3436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPaw",
+          "description": "Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T21:21:42Z",
+            "owner": "daxaur",
+            "repo": "openpaw",
+            "stars": 157
+          }
+        }
+      ],
+      "title": "Dev tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LyricsX",
+          "description": "Ultimate lyrics app for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-22T11:40:28Z",
+            "owner": "ddddxxx",
+            "repo": "LyricsX",
+            "stars": 5202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kaset",
+          "description": "Native YouTube Music client for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T05:13:51Z",
+            "owner": "sozercan",
+            "repo": "kaset",
+            "stars": 1943
+          }
+        }
+      ],
+      "title": "Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kitty",
+          "description": "Cross-platform, fast, feature full, GPU based terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:07:46Z",
+            "owner": "kovidgoyal",
+            "repo": "kitty",
+            "stars": 34382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTerm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-08T07:13:09Z",
+            "owner": "gnachman",
+            "repo": "iTerm2",
+            "stars": 17930
+          }
+        }
+      ],
+      "title": "Terminal emulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bitbar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-10T10:18:51Z",
+            "owner": "matryer",
+            "repo": "xbar",
+            "stars": 18059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HexFriend",
+          "description": "Fast and clever open source hex editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-06-29T18:26:33Z",
+            "owner": "HexFiend",
+            "repo": "HexFiend",
+            "stars": 5880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:28:03Z",
+            "owner": "gitify-app",
+            "repo": "gitify",
+            "stars": 5317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bearded spice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2021-05-12T15:48:39Z",
+            "owner": "beardedspice",
+            "repo": "beardedspice",
+            "stars": 2844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alfred",
+          "description": "Customizable launcher with many powerful workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-01T19:22:22Z",
+            "owner": "linsa-io",
+            "repo": "alfred-workflows",
+            "stars": 2771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-06-28T03:27:09Z",
+            "owner": "anishathalye",
+            "repo": "lumen",
+            "stars": 2423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearDisk",
+          "description": "macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-06T15:23:28Z",
+            "owner": "bysiber",
+            "repo": "cleardisk",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feather",
+          "description": "Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.",
+          "children": []
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome mac",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T17:44:47Z",
+            "owner": "jaywcjlove",
+            "repo": "awesome-mac",
+            "stars": 110835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome macOS open source applications",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-15T22:47:24Z",
+            "owner": "serhii-londar",
+            "repo": "open-source-mac-os-apps",
+            "stars": 49996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My macOS",
+          "description": "Curated list of tools & apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-15T17:07:22Z",
+            "owner": "nikivdev",
+            "repo": "code",
+            "stars": 21125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome macOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T11:04:24Z",
+            "owner": "iCHAIT",
+            "repo": "awesome-macOS",
+            "stars": 19013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome macOS open source applications 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T17:59:31Z",
+            "owner": "jeffreyjackson",
+            "repo": "mac-apps",
+            "stars": 1595
+          }
+        }
+      ],
+      "title": "Related"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:28.643Z",
+    "original_repository": "linsa-io/macos-apps",
+    "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
+    "enhanced_repository": "enhansome/enhansome-macos-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome macOS apps with stars"
+  }
+}
