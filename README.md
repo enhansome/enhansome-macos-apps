@@ -34,7 +34,7 @@
 ## Code
 
 * [iTerm](https://www.iterm2.com/)
-* [VS Code](https://github.com/Microsoft/vscode) ⭐ 188,677 | 🐛 19,803 | 🌐 TypeScript | 📅 2026-08-14
+* [VS Code](https://github.com/Microsoft/vscode) ⭐ 188,693 | 🐛 19,860 | 🌐 TypeScript | 📅 2026-08-15
 
 ## Communication
 
@@ -74,7 +74,7 @@
 ## Dev tools
 
 * [Platypus](https://github.com/sveinbjornt/Platypus) ⭐ 3,436 | 🐛 34 | 🌐 Objective-C | 📅 2026-05-13 - Create Mac applications from command line scripts.
-* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 157 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23 - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
+* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 158 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23 - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
 * [AgentGrid](https://agentgrid.sh) - Infinite zoomable canvas for orchestrating multiple AI coding agents in parallel, with role-based workers, per-agent git worktrees, and integrated terminals and browser panes.
 * [Bee](https://www.neat.io/bee/) - Issue tracker.
 * [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
@@ -114,8 +114,8 @@
 
 ## Music
 
-* [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,202 | 🐛 307 | 🌐 Swift | 📅 2026-07-22 - Ultimate lyrics app for macOS.
-* [Kaset](https://github.com/sozercan/kaset) ⭐ 1,955 | 🐛 103 | 🌐 Swift | 📅 2026-08-10 - Native YouTube Music client for macOS.
+* [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,201 | 🐛 307 | 🌐 Swift | 📅 2026-07-22 - Ultimate lyrics app for macOS.
+* [Kaset](https://github.com/sozercan/kaset) ⭐ 1,958 | 🐛 103 | 🌐 Swift | 📅 2026-08-10 - Native YouTube Music client for macOS.
 * [Noizio](http://noiz.io/)
 * [Spotify](https://www.spotify.com/)
 * [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
@@ -146,8 +146,8 @@
 
 ## Terminal emulators
 
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,398 | 🐛 9 | 🌐 Python | 📅 2026-08-14 - Cross-platform, fast, feature full, GPU based terminal emulator.
-* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,931 | 🐛 65 | 🌐 Objective-C | 📅 2026-08-13
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,402 | 🐛 14 | 🌐 Python | 📅 2026-08-14 - Cross-platform, fast, feature full, GPU based terminal emulator.
+* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,930 | 🐛 65 | 🌐 Objective-C | 📅 2026-08-14
 
 ## Text Editors
 
@@ -158,13 +158,13 @@
 
 ## Utilities
 
-* [Bitbar](https://github.com/matryer/bitbar) ⭐ 18,060 | 🐛 188 | 🌐 Go | 📅 2024-09-10
+* [Bitbar](https://github.com/matryer/bitbar) ⭐ 18,061 | 🐛 188 | 🌐 Go | 📅 2024-09-10
 * [HexFriend](https://github.com/ridiculousfish/HexFiend/) ⭐ 5,880 | 🐛 79 | 🌐 Objective-C | 📅 2025-06-29 - Fast and clever open source hex editor.
-* [Gitify](https://github.com/manosim/gitify) ⭐ 5,317 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-13
+* [Gitify](https://github.com/manosim/gitify) ⭐ 5,317 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-14
 * [Bearded spice](https://github.com/beardedspice/beardedspice) ⭐ 2,844 | 🐛 401 | 🌐 Objective-C | 📅 2021-05-12
 * [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-) ⭐ 2,771 | 🐛 4 | 📅 2026-05-01.
 * [Lumen](https://github.com/anishathalye/lumen) ⭐ 2,423 | 🐛 1 | 🌐 Objective-C | 📅 2026-06-28
-* [ClearDisk](https://github.com/bysiber/cleardisk) ⭐ 572 | 🐛 10 | 🌐 Swift | 📅 2026-08-06 - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
+* [ClearDisk](https://github.com/bysiber/cleardisk) ⭐ 573 | 🐛 12 | 🌐 Swift | 📅 2026-08-06 - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
 * [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 * [Brew](https://brew.sh)
 * [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
@@ -194,7 +194,7 @@
 
 ## Video
 
-* [IINA](https://github.com/lhc70000/iina) ⭐ 45,942 | 🐛 1,936 | 🌐 Swift | 📅 2026-08-14
+* [IINA](https://github.com/lhc70000/iina) ⭐ 45,959 | 🐛 1,926 | 🌐 Swift | 📅 2026-08-14
 * [MPV](https://mpv.io/)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 * [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
@@ -203,7 +203,7 @@
 
 * [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 * [Day One](http://dayoneapp.com/)
-* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,439 | 🐛 7 | 🌐 Swift | 📅 2026-07-29 - Notes manager.
+* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,440 | 🐛 8 | 🌐 Swift | 📅 2026-07-29 - Notes manager.
 * [MacDown](https://macdown.uranusjr.com/)
 * [Marked 2](http://marked2app.com/)
 * [Texpad](https://www.texpad.com/)
@@ -228,10 +228,10 @@
 
 ## Related
 
-* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 110,954 | 🐛 652 | 🌐 Swift | 📅 2026-08-11
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,007 | 🐛 210 | 📅 2026-04-15
+* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,041 | 🐛 655 | 🌐 Swift | 📅 2026-08-14
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,021 | 🐛 212 | 📅 2026-04-15
 * [My macOS](https://github.com/nikitavoloboev/my-mac-os) ⭐ 21,125 | 🐛 0 | 🌐 Rust | 📅 2026-04-15 - Curated list of tools & apps.
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,015 | 🐛 47 | 📅 2026-08-10
+* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,019 | 🐛 50 | 📅 2026-08-10
 * [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,595 | 🐛 0 | 📅 2026-08-12
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
@@ -241,4 +241,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
