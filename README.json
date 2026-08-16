@@ -28,7 +28,7 @@
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 158
+            "stars": 157
           }
         }
       ],
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-10T05:13:51Z",
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 1958
+            "stars": 1962
           }
         }
       ],
@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:28:01Z",
+            "last_commit": "2026-08-16T00:41:41Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34402
+            "stars": 34415
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T07:09:00Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17930
+            "stars": 17934
           }
         }
       ],
@@ -116,7 +116,7 @@
             "last_commit": "2024-09-10T10:18:51Z",
             "owner": "matryer",
             "repo": "xbar",
-            "stars": 18061
+            "stars": 18063
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-14T12:09:24Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111041
+            "stars": 111143
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-04-15T22:47:24Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50021
+            "stars": 50044
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-10T11:04:24Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19019
+            "stars": 19025
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:37:59.265Z",
+    "last_updated": "2026-08-16T02:46:17.127Z",
     "original_repository": "linsa-io/macos-apps",
     "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
     "enhanced_repository": "enhansome/enhansome-macos-apps",
