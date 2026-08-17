@@ -14,7 +14,7 @@
             "last_commit": "2026-05-13T22:44:55Z",
             "owner": "sveinbjornt",
             "repo": "Platypus",
-            "stars": 3436
+            "stars": 3437
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 157
+            "stars": 158
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2026-07-22T11:40:28Z",
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5201
+            "stars": 5202
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-10T05:13:51Z",
+            "last_commit": "2026-08-16T21:47:57Z",
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 1962
+            "stars": 1997
           }
         }
       ],
@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:41:41Z",
+            "last_commit": "2026-08-17T01:45:01Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34415
+            "stars": 34427
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2026-08-14T07:09:00Z",
+            "last_commit": "2026-08-16T07:08:35Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17934
+            "stars": 17936
           }
         }
       ],
@@ -116,7 +116,7 @@
             "last_commit": "2024-09-10T10:18:51Z",
             "owner": "matryer",
             "repo": "xbar",
-            "stars": 18063
+            "stars": 18064
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2025-06-29T18:26:33Z",
             "owner": "HexFiend",
             "repo": "HexFiend",
-            "stars": 5880
+            "stars": 5881
           }
         },
         {
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:55:33Z",
+            "last_commit": "2026-08-16T14:20:26Z",
             "owner": "gitify-app",
             "repo": "gitify",
             "stars": 5317
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-06T15:23:28Z",
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 573
+            "stars": 575
           }
         },
         {
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-14T12:09:24Z",
+            "last_commit": "2026-08-16T02:56:08Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111143
+            "stars": 111217
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-04-15T22:47:24Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50044
+            "stars": 50046
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2026-04-15T17:07:22Z",
             "owner": "nikivdev",
             "repo": "code",
-            "stars": 21125
+            "stars": 21124
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-10T11:04:24Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19025
+            "stars": 19037
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:46:17.127Z",
+    "last_updated": "2026-08-17T02:46:18.839Z",
     "original_repository": "linsa-io/macos-apps",
     "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
     "enhanced_repository": "enhansome/enhansome-macos-apps",
