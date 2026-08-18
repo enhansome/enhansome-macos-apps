@@ -14,7 +14,7 @@
             "last_commit": "2026-05-13T22:44:55Z",
             "owner": "sveinbjornt",
             "repo": "Platypus",
-            "stars": 3437
+            "stars": 3438
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 158
+            "stars": 159
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2026-07-22T11:40:28Z",
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5202
+            "stars": 5203
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-16T21:47:57Z",
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 1997
+            "stars": 2017
           }
         }
       ],
@@ -79,10 +79,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T01:45:01Z",
+            "last_commit": "2026-08-18T02:11:53Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34427
+            "stars": 34446
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Objective-C",
-            "last_commit": "2026-08-16T07:08:35Z",
+            "last_commit": "2026-08-17T23:36:11Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17936
+            "stars": 17939
           }
         }
       ],
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-16T14:20:26Z",
             "owner": "gitify-app",
             "repo": "gitify",
-            "stars": 5317
+            "stars": 5318
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-06T15:23:28Z",
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T02:56:08Z",
+            "last_commit": "2026-08-17T03:21:26Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111217
+            "stars": 111316
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-04-15T22:47:24Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50046
+            "stars": 50058
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-08-10T11:04:24Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19037
+            "stars": 19045
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:46:18.839Z",
+    "last_updated": "2026-08-18T02:41:07.006Z",
     "original_repository": "linsa-io/macos-apps",
     "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
     "enhanced_repository": "enhansome/enhansome-macos-apps",
