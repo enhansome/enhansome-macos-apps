@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1534955,
             "language": "Objective-C",
             "last_commit": "2026-05-13T22:44:55Z",
             "owner": "sveinbjornt",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1169354823,
             "language": "TypeScript",
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
@@ -35,7 +37,7 @@
       "title": "Dev tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81710355,
             "language": "Swift",
             "last_commit": "2026-07-22T11:40:28Z",
             "owner": "ddddxxx",
@@ -58,18 +61,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1119794312,
             "language": "Swift",
-            "last_commit": "2026-08-16T21:47:57Z",
+            "last_commit": "2026-08-19T06:17:36Z",
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 2034
+            "stars": 2047
           }
         }
       ],
       "title": "Music"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71056775,
             "language": "Python",
             "last_commit": "2026-08-18T23:28:03Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34464
+            "stars": 34473
           }
         },
         {
@@ -92,18 +97,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-19T01:10:39Z",
+            "last_commit": "2026-08-19T07:15:47Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17941
+            "stars": 17944
           }
         }
       ],
       "title": "Terminal emulators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -112,6 +118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14376285,
             "language": "Go",
             "last_commit": "2024-09-10T10:18:51Z",
             "owner": "matryer",
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2928534,
             "language": "Objective-C",
             "last_commit": "2025-06-29T18:26:33Z",
             "owner": "HexFiend",
@@ -140,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36029706,
             "language": "TypeScript",
             "last_commit": "2026-08-18T14:52:28Z",
             "owner": "gitify-app",
             "repo": "gitify",
-            "stars": 5320
+            "stars": 5321
           }
         },
         {
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15920678,
             "language": "Objective-C",
             "last_commit": "2021-05-12T15:48:39Z",
             "owner": "beardedspice",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93960104,
             "language": null,
             "last_commit": "2026-05-01T19:22:22Z",
             "owner": "linsa-io",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64570768,
             "language": "Objective-C",
             "last_commit": "2026-06-28T03:27:09Z",
             "owner": "anishathalye",
@@ -196,24 +208,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1169516628,
             "language": "Swift",
             "last_commit": "2026-08-06T15:23:28Z",
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 575
+            "stars": 576
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Feather",
-          "description": "Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.",
-          "children": []
         }
       ],
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -222,11 +229,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63539055,
             "language": "Swift",
-            "last_commit": "2026-08-17T03:21:26Z",
+            "last_commit": "2026-08-19T05:26:55Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111388
+            "stars": 111417
           }
         },
         {
@@ -236,11 +244,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109343098,
             "language": null,
             "last_commit": "2026-04-15T22:47:24Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50082
+            "stars": 50087
           }
         },
         {
@@ -250,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53133861,
             "language": "Rust",
             "last_commit": "2026-04-15T17:07:22Z",
             "owner": "nikivdev",
@@ -264,11 +274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36241619,
             "language": null,
-            "last_commit": "2026-08-10T11:04:24Z",
+            "last_commit": "2026-08-19T08:27:52Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19048
+            "stars": 19050
           }
         },
         {
@@ -278,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33498049,
             "language": null,
             "last_commit": "2026-08-12T17:59:31Z",
             "owner": "jeffreyjackson",
@@ -290,8 +302,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:43:21.163Z",
+    "last_updated": "2026-08-19T12:39:13.025Z",
     "original_repository": "linsa-io/macos-apps",
+    "original_repository_id": 93969351,
     "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
     "enhanced_repository": "enhansome/enhansome-macos-apps",
     "enhanced_repository_description": null,
