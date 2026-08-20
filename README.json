@@ -30,7 +30,7 @@
             "last_commit": "2026-05-23T21:21:42Z",
             "owner": "daxaur",
             "repo": "openpaw",
-            "stars": 160
+            "stars": 161
           }
         }
       ],
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-19T06:17:36Z",
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 2047
+            "stars": 2070
           }
         }
       ],
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 71056775,
             "language": "Python",
-            "last_commit": "2026-08-18T23:28:03Z",
+            "last_commit": "2026-08-20T02:37:30Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34473
+            "stars": 34483
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-19T07:15:47Z",
+            "last_commit": "2026-08-20T01:10:38Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17944
+            "stars": 17946
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2025-06-29T18:26:33Z",
             "owner": "HexFiend",
             "repo": "HexFiend",
-            "stars": 5881
+            "stars": 5883
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-19T05:26:55Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111417
+            "stars": 111454
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-04-15T22:47:24Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50087
+            "stars": 50093
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-19T08:27:52Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19050
+            "stars": 19051
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:39:13.025Z",
+    "last_updated": "2026-08-20T02:42:26.486Z",
     "original_repository": "linsa-io/macos-apps",
     "original_repository_id": 93969351,
     "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",

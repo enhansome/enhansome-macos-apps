@@ -34,7 +34,7 @@
 ## Code
 
 * [iTerm](https://www.iterm2.com/)
-* [VS Code](https://github.com/Microsoft/vscode) ⭐ 188,923 | 🐛 19,955 | 🌐 TypeScript | 📅 2026-08-19
+* [VS Code](https://github.com/Microsoft/vscode) ⭐ 188,945 | 🐛 19,975 | 🌐 TypeScript | 📅 2026-08-20
 
 ## Communication
 
@@ -74,7 +74,7 @@
 ## Dev tools
 
 * [Platypus](https://github.com/sveinbjornt/Platypus) ⭐ 3,438 | 🐛 34 | 🌐 Objective-C | 📅 2026-05-13 - Create Mac applications from command line scripts.
-* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 160 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23 - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
+* [OpenPaw](https://github.com/daxaur/openpaw) ⭐ 161 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-23 - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
 * [AgentGrid](https://agentgrid.sh) - Infinite zoomable canvas for orchestrating multiple AI coding agents in parallel, with role-based workers, per-agent git worktrees, and integrated terminals and browser panes.
 * [Bee](https://www.neat.io/bee/) - Issue tracker.
 * [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
@@ -115,7 +115,7 @@
 ## Music
 
 * [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,203 | 🐛 307 | 🌐 Swift | 📅 2026-07-22 - Ultimate lyrics app for macOS.
-* [Kaset](https://github.com/sozercan/kaset) ⭐ 2,047 | 🐛 105 | 🌐 Swift | 📅 2026-08-19 - Native YouTube Music client for macOS.
+* [Kaset](https://github.com/sozercan/kaset) ⭐ 2,070 | 🐛 105 | 🌐 Swift | 📅 2026-08-19 - Native YouTube Music client for macOS.
 * [Noizio](http://noiz.io/)
 * [Spotify](https://www.spotify.com/)
 * [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
@@ -146,8 +146,8 @@
 
 ## Terminal emulators
 
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,473 | 🐛 11 | 🌐 Python | 📅 2026-08-18 - Cross-platform, fast, feature full, GPU based terminal emulator.
-* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,944 | 🐛 72 | 🌐 Objective-C | 📅 2026-08-19
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,483 | 🐛 10 | 🌐 Python | 📅 2026-08-20 - Cross-platform, fast, feature full, GPU based terminal emulator.
+* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,946 | 🐛 72 | 🌐 Objective-C | 📅 2026-08-20
 
 ## Text Editors
 
@@ -159,7 +159,7 @@
 ## Utilities
 
 * [Bitbar](https://github.com/matryer/bitbar) ⭐ 18,064 | 🐛 188 | 🌐 Go | 📅 2024-09-10
-* [HexFriend](https://github.com/ridiculousfish/HexFiend/) ⭐ 5,881 | 🐛 79 | 🌐 Objective-C | 📅 2025-06-29 - Fast and clever open source hex editor.
+* [HexFriend](https://github.com/ridiculousfish/HexFiend/) ⭐ 5,883 | 🐛 79 | 🌐 Objective-C | 📅 2025-06-29 - Fast and clever open source hex editor.
 * [Gitify](https://github.com/manosim/gitify) ⭐ 5,321 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-18
 * [Bearded spice](https://github.com/beardedspice/beardedspice) ⭐ 2,844 | 🐛 401 | 🌐 Objective-C | 📅 2021-05-12
 * [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-) ⭐ 2,771 | 🐛 4 | 📅 2026-05-01.
@@ -194,7 +194,7 @@
 
 ## Video
 
-* [IINA](https://github.com/lhc70000/iina) ⭐ 46,010 | 🐛 1,921 | 🌐 Swift | 📅 2026-08-19
+* [IINA](https://github.com/lhc70000/iina) ⭐ 46,013 | 🐛 1,911 | 🌐 Swift | 📅 2026-08-20
 * [MPV](https://mpv.io/)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 * [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
@@ -203,7 +203,7 @@
 
 * [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 * [Day One](http://dayoneapp.com/)
-* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,448 | 🐛 4 | 🌐 Swift | 📅 2026-08-17 - Notes manager.
+* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,448 | 🐛 1 | 🌐 Swift | 📅 2026-08-17 - Notes manager.
 * [MacDown](https://macdown.uranusjr.com/)
 * [Marked 2](http://marked2app.com/)
 * [Texpad](https://www.texpad.com/)
@@ -211,7 +211,7 @@
 
 ## Preference Panes
 
-* [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps/releases/latest) ⭐ 1,735 | 🐛 67 | 🌐 Swift | 📅 2024-03-07 - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
+* [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps/releases/latest) ⭐ 1,736 | 🐛 67 | 🌐 Swift | 📅 2024-03-07 - Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.
 * [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - Gives you access to additional preference settings Apple has built into macOS.
 
 ## Other
@@ -228,10 +228,10 @@
 
 ## Related
 
-* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,417 | 🐛 688 | 🌐 Swift | 📅 2026-08-19
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,087 | 🐛 226 | 📅 2026-04-15
+* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,454 | 🐛 694 | 🌐 Swift | 📅 2026-08-19
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,093 | 🐛 227 | 📅 2026-04-15
 * [My macOS](https://github.com/nikitavoloboev/my-mac-os) ⭐ 21,122 | 🐛 0 | 🌐 Rust | 📅 2026-04-15 - Curated list of tools & apps.
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,050 | 🐛 49 | 📅 2026-08-19
+* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,051 | 🐛 54 | 📅 2026-08-19
 * [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,594 | 🐛 2 | 📅 2026-08-12
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
@@ -241,4 +241,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
