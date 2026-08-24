@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "OpenQuack",
+          "description": "Privacy-first local voice dictation menu bar app powered by WhisperKit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1224861741,
+            "language": "Swift",
+            "last_commit": "2026-08-24T03:12:12Z",
+            "owner": "larryxiao",
+            "repo": "openquack",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VS Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41881900,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:17:29Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 189368
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Platypus",
           "description": "Create Mac applications from command line scripts.",
           "children": [],
@@ -66,7 +108,7 @@
             "last_commit": "2026-08-22T01:24:04Z",
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 2110
+            "stars": 2109
           }
         }
       ],
@@ -84,10 +126,10 @@
             "archived": false,
             "id": 71056775,
             "language": "Python",
-            "last_commit": "2026-08-23T21:27:12Z",
+            "last_commit": "2026-08-24T13:08:33Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34567
+            "stars": 34577
           }
         },
         {
@@ -102,7 +144,7 @@
             "last_commit": "2026-08-23T07:10:20Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17959
+            "stars": 17962
           }
         }
       ],
@@ -150,10 +192,10 @@
             "archived": false,
             "id": 36029706,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T13:12:01Z",
+            "last_commit": "2026-08-24T11:23:10Z",
             "owner": "gitify-app",
             "repo": "gitify",
-            "stars": 5325
+            "stars": 5326
           }
         },
         {
@@ -168,7 +210,7 @@
             "last_commit": "2021-05-12T15:48:39Z",
             "owner": "beardedspice",
             "repo": "beardedspice",
-            "stars": 2844
+            "stars": 2843
           }
         },
         {
@@ -210,14 +252,98 @@
             "archived": false,
             "id": 1169516628,
             "language": "Swift",
-            "last_commit": "2026-08-06T15:23:28Z",
+            "last_commit": "2026-08-24T13:01:01Z",
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 576
+            "stars": 577
           }
         }
       ],
       "title": "Utilities"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IINA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76838017,
+            "language": "Swift",
+            "last_commit": "2026-08-23T03:06:13Z",
+            "owner": "iina",
+            "repo": "iina",
+            "stars": 46069
+          }
+        }
+      ],
+      "title": "Video"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FSNotes",
+          "description": "Notes manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97860533,
+            "language": "Swift",
+            "last_commit": "2026-08-23T09:22:27Z",
+            "owner": "glushchenko",
+            "repo": "fsnotes",
+            "stars": 7454
+          }
+        }
+      ],
+      "title": "Write"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftDefaultApps",
+          "description": "Set the default application used for various URL schemes, file extensions, file types, MIME types, and Uniform Type Identifiers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78903699,
+            "language": "Swift",
+            "last_commit": "2024-03-07T18:03:34Z",
+            "owner": "Lord-Kamina",
+            "repo": "SwiftDefaultApps",
+            "stars": 1739
+          }
+        }
+      ],
+      "title": "Preference Panes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dozer",
+          "description": "Hide status bar icons on macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150961965,
+            "language": "Swift",
+            "last_commit": "2023-11-30T13:45:27Z",
+            "owner": "Mortennn",
+            "repo": "Dozer",
+            "stars": 8712
+          }
+        }
+      ],
+      "title": "Other"
     },
     {
       "description": null,
@@ -234,7 +360,7 @@
             "last_commit": "2026-08-21T08:08:53Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111679
+            "stars": 111706
           }
         },
         {
@@ -249,7 +375,7 @@
             "last_commit": "2026-08-22T12:13:37Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50143
+            "stars": 50147
           }
         },
         {
@@ -264,7 +390,7 @@
             "last_commit": "2026-04-15T17:07:22Z",
             "owner": "nikivdev",
             "repo": "code",
-            "stars": 21123
+            "stars": 21125
           }
         },
         {
@@ -279,7 +405,7 @@
             "last_commit": "2026-08-23T18:27:23Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19076
+            "stars": 19078
           }
         },
         {
@@ -302,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:49:32.640Z",
+    "last_updated": "2026-08-24T14:18:21.993Z",
     "original_repository": "linsa-io/macos-apps",
     "original_repository_id": 93969351,
     "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
