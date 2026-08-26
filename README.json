@@ -33,10 +33,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:59:37Z",
+            "last_commit": "2026-08-26T02:50:10Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189577
+            "stars": 189606
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-05-13T22:44:55Z",
             "owner": "sveinbjornt",
             "repo": "Platypus",
-            "stars": 3438
+            "stars": 3439
           }
         },
         {
@@ -93,7 +93,7 @@
             "last_commit": "2026-07-22T11:40:28Z",
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5208
+            "stars": 5207
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-24T23:41:45Z",
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 2114
+            "stars": 2117
           }
         }
       ],
@@ -126,10 +126,10 @@
             "archived": false,
             "id": 71056775,
             "language": "Python",
-            "last_commit": "2026-08-25T04:44:46Z",
+            "last_commit": "2026-08-26T01:25:14Z",
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34587
+            "stars": 34598
           }
         },
         {
@@ -141,10 +141,10 @@
             "archived": false,
             "id": 1580036,
             "language": "Objective-C",
-            "last_commit": "2026-08-25T04:53:00Z",
+            "last_commit": "2026-08-26T01:28:27Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17962
+            "stars": 17963
           }
         }
       ],
@@ -165,7 +165,7 @@
             "last_commit": "2024-09-10T10:18:51Z",
             "owner": "matryer",
             "repo": "xbar",
-            "stars": 18064
+            "stars": 18063
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-06-29T18:26:33Z",
             "owner": "HexFiend",
             "repo": "HexFiend",
-            "stars": 5882
+            "stars": 5883
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 36029706,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:45:32Z",
+            "last_commit": "2026-08-26T01:34:42Z",
             "owner": "gitify-app",
             "repo": "gitify",
-            "stars": 5329
+            "stars": 5330
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-06-28T03:27:09Z",
             "owner": "anishathalye",
             "repo": "lumen",
-            "stars": 2423
+            "stars": 2424
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 76838017,
             "language": "Swift",
-            "last_commit": "2026-08-24T21:49:33Z",
+            "last_commit": "2026-08-26T02:16:31Z",
             "owner": "iina",
             "repo": "iina",
-            "stars": 46074
+            "stars": 46086
           }
         }
       ],
@@ -339,7 +339,7 @@
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8712
+            "stars": 8713
           }
         }
       ],
@@ -357,10 +357,10 @@
             "archived": false,
             "id": 63539055,
             "language": "Swift",
-            "last_commit": "2026-08-25T05:40:06Z",
+            "last_commit": "2026-08-25T07:22:45Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111744
+            "stars": 111797
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-22T12:13:37Z",
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50159
+            "stars": 50162
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-04-15T17:07:22Z",
             "owner": "nikivdev",
             "repo": "code",
-            "stars": 21124
+            "stars": 21123
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-23T18:27:23Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19081
+            "stars": 19086
           }
         },
         {
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:53.485Z",
+    "last_updated": "2026-08-26T02:51:33.613Z",
     "original_repository": "linsa-io/macos-apps",
     "original_repository_id": 93969351,
     "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
