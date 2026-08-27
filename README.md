@@ -33,7 +33,7 @@
 
 ## Code
 
-* [VS Code](https://github.com/Microsoft/vscode) ⭐ 189,709 | 🐛 20,160 | 🌐 TypeScript | 📅 2026-08-27
+* [VS Code](https://github.com/Microsoft/vscode) ⭐ 189,710 | 🐛 20,157 | 🌐 TypeScript | 📅 2026-08-27
 * [iTerm](https://www.iterm2.com/)
 
 ## Communication
@@ -147,7 +147,7 @@
 ## Terminal emulators
 
 * [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,626 | 🐛 11 | 🌐 Python | 📅 2026-08-26 - Cross-platform, fast, feature full, GPU based terminal emulator.
-* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,973 | 🐛 66 | 🌐 Objective-C | 📅 2026-08-27
+* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,975 | 🐛 66 | 🌐 Objective-C | 📅 2026-08-27
 
 ## Text Editors
 
@@ -229,7 +229,7 @@
 ## Related
 
 * [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 111,881 | 🐛 741 | 🌐 Swift | 📅 2026-08-26
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,175 | 🐛 238 | 📅 2026-08-22
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,176 | 🐛 238 | 📅 2026-08-22
 * [My macOS](https://github.com/nikitavoloboev/my-mac-os) ⭐ 21,122 | 🐛 0 | 🌐 Rust | 📅 2026-04-15 - Curated list of tools & apps.
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,089 | 🐛 66 | 📅 2026-08-23
 * [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,597 | 🐛 0 | 📅 2026-08-27
