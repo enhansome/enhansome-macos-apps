@@ -33,7 +33,7 @@
 
 ## Code
 
-* [VS Code](https://github.com/Microsoft/vscode) ⭐ 189,757 | 🐛 20,178 | 🌐 TypeScript | 📅 2026-08-29
+* [VS Code](https://github.com/Microsoft/vscode) ⭐ 189,761 | 🐛 20,179 | 🌐 TypeScript | 📅 2026-08-29
 * [iTerm](https://www.iterm2.com/)
 
 ## Communication
@@ -115,7 +115,7 @@
 ## Music
 
 * [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,206 | 🐛 307 | 🌐 Swift | 📅 2026-07-22 - Ultimate lyrics app for macOS.
-* [Kaset](https://github.com/sozercan/kaset) ⭐ 2,141 | 🐛 107 | 🌐 Swift | 📅 2026-08-29 - Native YouTube Music client for macOS.
+* [Kaset](https://github.com/sozercan/kaset) ⭐ 2,140 | 🐛 107 | 🌐 Swift | 📅 2026-08-29 - Native YouTube Music client for macOS.
 * [Noizio](http://noiz.io/)
 * [Spotify](https://www.spotify.com/)
 * [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
@@ -130,7 +130,7 @@
 * [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 * [MindNode](https://mindnode.com/) - Create interactive mind maps.
 * [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
-* [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 340 | 🐛 8 | 🌐 Swift | 📅 2026-08-28 - Tag and archive documents.
+* [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 340 | 🐛 7 | 🌐 Swift | 📅 2026-08-29 - Tag and archive documents.
 * [Timing 2](https://betalist.com/startups/timing-2)
 * [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 * [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1\&mt=12)
@@ -146,8 +146,8 @@
 
 ## Terminal emulators
 
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,661 | 🐛 10 | 🌐 Python | 📅 2026-08-29 - Cross-platform, fast, feature full, GPU based terminal emulator.
-* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,985 | 🐛 64 | 🌐 Objective-C | 📅 2026-08-29
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,665 | 🐛 10 | 🌐 Python | 📅 2026-08-29 - Cross-platform, fast, feature full, GPU based terminal emulator.
+* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 17,985 | 🐛 65 | 🌐 Objective-C | 📅 2026-08-29
 
 ## Text Editors
 
@@ -194,7 +194,7 @@
 
 ## Video
 
-* [IINA](https://github.com/lhc70000/iina) ⭐ 46,122 | 🐛 1,917 | 🌐 Swift | 📅 2026-08-28
+* [IINA](https://github.com/lhc70000/iina) ⭐ 46,124 | 🐛 1,917 | 🌐 Swift | 📅 2026-08-28
 * [MPV](https://mpv.io/)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 * [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
@@ -228,11 +228,11 @@
 
 ## Related
 
-* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 112,039 | 🐛 756 | 🌐 Swift | 📅 2026-08-29
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,185 | 🐛 244 | 📅 2026-08-22
+* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 112,048 | 🐛 763 | 🌐 Swift | 📅 2026-08-29
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,186 | 🐛 245 | 📅 2026-08-22
 * [My macOS](https://github.com/nikitavoloboev/my-mac-os) ⭐ 21,121 | 🐛 0 | 🌐 Rust | 📅 2026-04-15 - Curated list of tools & apps.
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,102 | 🐛 75 | 📅 2026-08-23
-* [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,597 | 🐛 0 | 📅 2026-08-27
+* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,102 | 🐛 76 | 📅 2026-08-23
+* [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,598 | 🐛 0 | 📅 2026-08-27
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 944 | 🐛 2 | 📅 2023-11-13
