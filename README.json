@@ -61,11 +61,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T06:39:46Z",
-            "open_issues": 20708,
+            "last_commit": "2026-09-10T06:28:33Z",
+            "open_issues": 20754,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 191504,
+            "stars": 191532,
             "topics": [
               "editor",
               "electron",
@@ -98,7 +98,7 @@
             "open_issues": 34,
             "owner": "sveinbjornt",
             "repo": "Platypus",
-            "stars": 3443,
+            "stars": 3444,
             "topics": [
               "application",
               "cocoa",
@@ -207,11 +207,11 @@
             "id": 1119794312,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-07T06:13:59Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-10T06:15:36Z",
+            "open_issues": 103,
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 2222,
+            "stars": 2233,
             "topics": [
               "apple-music",
               "liquid-glass",
@@ -250,11 +250,11 @@
             "id": 71056775,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T04:05:57Z",
+            "last_commit": "2026-09-09T21:27:42Z",
             "open_issues": 11,
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34838,
+            "stars": 34844,
             "topics": [
               "c",
               "go",
@@ -284,11 +284,11 @@
             "id": 1580036,
             "language": "Objective-C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-09T00:58:28Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-10T00:54:56Z",
+            "open_issues": 70,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18028,
+            "stars": 18034,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -344,7 +344,7 @@
             "open_issues": 79,
             "owner": "HexFiend",
             "repo": "HexFiend",
-            "stars": 5895,
+            "stars": 5894,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -455,7 +455,7 @@
             "open_issues": 1,
             "owner": "anishathalye",
             "repo": "lumen",
-            "stars": 2426,
+            "stars": 2427,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -476,7 +476,7 @@
             "open_issues": 14,
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 687,
+            "stars": 690,
             "topics": [
               "cache-cleaner",
               "developer-tools",
@@ -501,6 +501,44 @@
             ]
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Lockpaw",
+          "description": "Menu bar screen guard that locks your screen with a hotkey without sleeping; builds and AI agents keep running with input blocked, and the screen glows when your agent needs you. Free and open source, with Touch ID unlock.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cover your Mac screen with a hotkey while AI agents keep running. Dog/cat mascot, native Settings, Touch ID unlock.",
+            "homepage": "https://getlockpaw.com",
+            "id": 1186242047,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-09-09T07:07:55Z",
+            "open_issues": 1,
+            "owner": "sorkila",
+            "repo": "lockpaw",
+            "stars": 150,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "developer-tools",
+              "hotkey",
+              "macos",
+              "macos-app",
+              "menubar",
+              "open-source",
+              "privacy",
+              "screen-lock",
+              "screen-privacy",
+              "security",
+              "swift",
+              "swiftui",
+              "touch-id",
+              "utilities"
+            ]
+          },
+          "first_seen": "2026-09-10T06:38:07.408Z"
         }
       ],
       "title": "Utilities"
@@ -520,11 +558,11 @@
             "id": 76838017,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T21:25:17Z",
-            "open_issues": 1920,
+            "last_commit": "2026-09-10T02:30:56Z",
+            "open_issues": 1924,
             "owner": "iina",
             "repo": "iina",
-            "stars": 46272,
+            "stars": 46283,
             "topics": [
               "hacktoberfest",
               "macos",
@@ -558,7 +596,7 @@
             "open_issues": 4,
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7475,
+            "stars": 7477,
             "topics": [
               "ios",
               "macos",
@@ -620,7 +658,7 @@
             "open_issues": 101,
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8719,
+            "stars": 8717,
             "topics": [
               "macos",
               "minimalistic",
@@ -648,11 +686,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-09T06:06:37Z",
-            "open_issues": 842,
+            "last_commit": "2026-09-10T05:26:51Z",
+            "open_issues": 847,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 113329,
+            "stars": 113429,
             "topics": [
               "app",
               "apple",
@@ -689,11 +727,11 @@
             "id": 109343098,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-05T12:23:35Z",
-            "open_issues": 260,
+            "last_commit": "2026-09-09T19:13:13Z",
+            "open_issues": 252,
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50303,
+            "stars": 50320,
             "topics": [
               "applications",
               "apps",
@@ -733,7 +771,7 @@
             "open_issues": 0,
             "owner": "nikivdev",
             "repo": "code",
-            "stars": 21113,
+            "stars": 21115,
             "topics": [
               "agents",
               "autonomy",
@@ -755,10 +793,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-23T18:27:23Z",
-            "open_issues": 115,
+            "open_issues": 118,
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19173,
+            "stars": 19178,
             "topics": [
               "apple",
               "awesome",
@@ -797,7 +835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:40:49.233Z",
+    "last_updated": "2026-09-10T06:38:07.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome macOS apps",
@@ -805,8 +843,8 @@
       "id": 93969351,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-20T12:02:02Z",
-      "open_issues": 67,
+      "last_commit": "2026-09-09T07:19:36Z",
+      "open_issues": 66,
       "owner": "linsa-io",
       "repo": "macos-apps",
       "stars": 838,
@@ -820,7 +858,7 @@
         "macos-apps"
       ]
     },
-    "original_repository_sha": "fb54e0833e2e1f7ce75df248252f29c61f36193c",
+    "original_repository_sha": "9c63a4f869685f973cc918240dc8c299420a05a2",
     "enhanced_repository": "enhansome/enhansome-macos-apps",
     "enhanced_repository_description": null,
     "title": "Awesome macOS apps with stars"
