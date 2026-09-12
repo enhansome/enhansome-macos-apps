@@ -27,13 +27,13 @@
 
 ## Audio
 
-* [OpenQuack](https://github.com/larryxiao/openquack) ⭐ 52 | 🐛 12 | 🌐 Swift | 📅 2026-08-31 - Privacy-first local voice dictation menu bar app powered by WhisperKit.
+* [OpenQuack](https://github.com/larryxiao/openquack) ⭐ 51 | 🐛 12 | 🌐 Swift | 📅 2026-08-31 - Privacy-first local voice dictation menu bar app powered by WhisperKit.
 * [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 * [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 
 ## Code
 
-* [VS Code](https://github.com/Microsoft/vscode) ⭐ 191,979 | 🐛 20,836 | 🌐 TypeScript | 📅 2026-09-11
+* [VS Code](https://github.com/Microsoft/vscode) ⭐ 192,028 | 🐛 20,958 | 🌐 TypeScript | 📅 2026-09-12
 * [iTerm](https://www.iterm2.com/)
 
 ## Communication
@@ -114,8 +114,8 @@
 
 ## Music
 
-* [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,212 | 🐛 308 | 🌐 Swift | 📅 2026-07-22 - Ultimate lyrics app for macOS.
-* [Kaset](https://github.com/sozercan/kaset) ⭐ 2,243 | 🐛 105 | 🌐 Swift | 📅 2026-09-10 - Native YouTube Music client for macOS.
+* [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,214 | 🐛 308 | 🌐 Swift | 📅 2026-07-22 - Ultimate lyrics app for macOS.
+* [Kaset](https://github.com/sozercan/kaset) ⭐ 2,248 | 🐛 106 | 🌐 Swift | 📅 2026-09-11 - Native YouTube Music client for macOS.
 * [Noizio](http://noiz.io/)
 * [Spotify](https://www.spotify.com/)
 * [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
@@ -130,7 +130,7 @@
 * [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 * [MindNode](https://mindnode.com/) - Create interactive mind maps.
 * [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
-* [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 341 | 🐛 10 | 🌐 Swift | 📅 2026-09-07 - Tag and archive documents.
+* [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) ⭐ 343 | 🐛 10 | 🌐 Swift | 📅 2026-09-07 - Tag and archive documents.
 * [Timing 2](https://betalist.com/startups/timing-2)
 * [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 * [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1\&mt=12)
@@ -146,8 +146,8 @@
 
 ## Terminal emulators
 
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,851 | 🐛 12 | 🌐 Python | 📅 2026-09-11 - Cross-platform, fast, feature full, GPU based terminal emulator.
-* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 18,038 | 🐛 73 | 🌐 Objective-C | 📅 2026-09-10
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,866 | 🐛 12 | 🌐 Python | 📅 2026-09-11 - Cross-platform, fast, feature full, GPU based terminal emulator.
+* [iTerm](https://github.com/gnachman/iTerm2) ⭐ 18,042 | 🐛 74 | 🌐 Objective-C | 📅 2026-09-12
 
 ## Text Editors
 
@@ -158,9 +158,9 @@
 
 ## Utilities
 
-* [Bitbar](https://github.com/matryer/bitbar) ⭐ 18,067 | 🐛 188 | 🌐 Go | 📅 2024-09-10
+* [Bitbar](https://github.com/matryer/bitbar) ⭐ 18,068 | 🐛 188 | 🌐 Go | 📅 2024-09-10
 * [HexFriend](https://github.com/ridiculousfish/HexFiend/) ⭐ 5,894 | 🐛 79 | 🌐 Objective-C | 📅 2025-06-29 - Fast and clever open source hex editor.
-* [Gitify](https://github.com/manosim/gitify) ⭐ 5,344 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-11
+* [Gitify](https://github.com/manosim/gitify) ⭐ 5,343 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-11
 * [Bearded spice](https://github.com/beardedspice/beardedspice) ⭐ 2,843 | 🐛 401 | 🌐 Objective-C | 📅 2021-05-12
 * [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-) ⭐ 2,773 | 🐛 4 | 📅 2026-05-01.
 * [Lumen](https://github.com/anishathalye/lumen) ⭐ 2,427 | 🐛 1 | 🌐 Objective-C | 📅 2026-06-28
@@ -195,14 +195,14 @@
 
 ## Video
 
-* [IINA](https://github.com/lhc70000/iina) ⭐ 46,293 | 🐛 1,931 | 🌐 Swift | 📅 2026-09-11
+* [IINA](https://github.com/lhc70000/iina) ⭐ 46,306 | 🐛 1,931 | 🌐 Swift | 📅 2026-09-11
 * [MPV](https://mpv.io/)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 * [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
 
 ## Write
 
-* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,479 | 🐛 4 | 🌐 Swift | 📅 2026-08-23 - Notes manager.
+* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,482 | 🐛 4 | 🌐 Swift | 📅 2026-08-23 - Notes manager.
 * [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 * [Day One](http://dayoneapp.com/)
 * [MacDown](https://macdown.uranusjr.com/)
@@ -217,7 +217,7 @@
 
 ## Other
 
-* [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,716 | 🐛 101 | 🌐 Swift | 📅 2023-11-30 - Hide status bar icons on macOS.
+* [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,715 | 🐛 101 | 🌐 Swift | 📅 2023-11-30 - Hide status bar icons on macOS.
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Draw a symbol and get LaTeX code for it.
 * [Dictionaries](https://dictionaries.io/) - Translate words without ever opening a dictionary.
 * [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) - Brings thousands of stunning high-resolution photos from Unsplash to your desktop.
@@ -229,11 +229,11 @@
 
 ## Related
 
-* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 113,511 | 🐛 851 | 🌐 Swift | 📅 2026-09-11
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,336 | 🐛 253 | 📅 2026-09-10
+* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 113,607 | 🐛 862 | 🌐 Swift | 📅 2026-09-11
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,344 | 🐛 256 | 📅 2026-09-10
 * [My macOS](https://github.com/nikitavoloboev/my-mac-os) ⭐ 21,115 | 🐛 0 | 🌐 Rust | 📅 2026-04-15 - Curated list of tools & apps.
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,183 | 🐛 122 | 📅 2026-08-23
-* [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,601 | 🐛 0 | 📅 2026-08-30
+* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,186 | 🐛 124 | 📅 2026-08-23
+* [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,602 | 🐛 0 | 📅 2026-09-11
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists) ⭐ 944 | 🐛 2 | 📅 2023-11-13
@@ -242,4 +242,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
