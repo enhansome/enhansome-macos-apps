@@ -61,11 +61,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T01:41:58Z",
-            "open_issues": 21182,
+            "last_commit": "2026-09-21T07:08:26Z",
+            "open_issues": 21197,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 192703,
+            "stars": 192753,
             "topics": [
               "editor",
               "electron",
@@ -98,7 +98,7 @@
             "open_issues": 34,
             "owner": "sveinbjornt",
             "repo": "Platypus",
-            "stars": 3451,
+            "stars": 3452,
             "topics": [
               "application",
               "cocoa",
@@ -178,7 +178,7 @@
             "open_issues": 308,
             "owner": "ddddxxx",
             "repo": "LyricsX",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "apple-music",
               "audirvana",
@@ -211,7 +211,7 @@
             "open_issues": 113,
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 2280,
+            "stars": 2287,
             "topics": [
               "apple-music",
               "liquid-glass",
@@ -250,11 +250,11 @@
             "id": 71056775,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T21:27:58Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-21T04:09:57Z",
+            "open_issues": 12,
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 34984,
+            "stars": 34999,
             "topics": [
               "c",
               "go",
@@ -284,11 +284,11 @@
             "id": 1580036,
             "language": "Objective-C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-19T07:18:39Z",
-            "open_issues": 71,
+            "last_commit": "2026-09-21T00:43:54Z",
+            "open_issues": 74,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 18075,
+            "stars": 18078,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -476,7 +476,7 @@
             "open_issues": 12,
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 700,
+            "stars": 702,
             "topics": [
               "cache-cleaner",
               "developer-tools",
@@ -518,7 +518,7 @@
             "open_issues": 3,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 153,
+            "stars": 152,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -559,10 +559,10 @@
             "language": "Swift",
             "license": "GPL-3.0",
             "last_commit": "2026-09-19T15:06:35Z",
-            "open_issues": 1930,
+            "open_issues": 1935,
             "owner": "iina",
             "repo": "iina",
-            "stars": 46408,
+            "stars": 46425,
             "topics": [
               "hacktoberfest",
               "macos",
@@ -592,11 +592,11 @@
             "id": 97860533,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-18T19:29:32Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-20T19:50:19Z",
+            "open_issues": 1,
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7497,
+            "stars": 7498,
             "topics": [
               "ios",
               "macos",
@@ -631,7 +631,7 @@
             "open_issues": 68,
             "owner": "Lord-Kamina",
             "repo": "SwiftDefaultApps",
-            "stars": 1746,
+            "stars": 1747,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -686,11 +686,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-17T08:01:12Z",
-            "open_issues": 922,
+            "last_commit": "2026-09-21T02:49:16Z",
+            "open_issues": 924,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 114192,
+            "stars": 114254,
             "topics": [
               "app",
               "apple",
@@ -729,10 +729,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-10T08:05:13Z",
-            "open_issues": 278,
+            "open_issues": 280,
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50461,
+            "stars": 50477,
             "topics": [
               "applications",
               "apps",
@@ -772,7 +772,7 @@
             "open_issues": 0,
             "owner": "nikivdev",
             "repo": "code",
-            "stars": 21112,
+            "stars": 21113,
             "topics": [
               "agents",
               "autonomy",
@@ -794,10 +794,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-23T18:27:23Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19231,
+            "stars": 19240,
             "topics": [
               "apple",
               "awesome",
@@ -826,7 +826,7 @@
             "open_issues": 0,
             "owner": "jeffreyjackson",
             "repo": "mac-apps",
-            "stars": 1601,
+            "stars": 1604,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:59:32.912Z",
+    "last_updated": "2026-09-21T07:09:31.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome macOS apps",
