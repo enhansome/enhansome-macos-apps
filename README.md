@@ -33,7 +33,7 @@
 
 ## Code
 
-* [VS Code](https://github.com/Microsoft/vscode) ⭐ 193,370 | 🐛 21,339 | 🌐 TypeScript | 📅 2026-10-03
+* [VS Code](https://github.com/Microsoft/vscode) ⭐ 193,373 | 🐛 21,341 | 🌐 TypeScript | 📅 2026-10-03
 * [iTerm](https://www.iterm2.com/)
 
 ## Communication
@@ -146,7 +146,7 @@
 
 ## Terminal emulators
 
-* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,149 | 🐛 13 | 🌐 Python | 📅 2026-10-03 - Cross-platform, fast, feature full, GPU based terminal emulator.
+* [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,151 | 🐛 12 | 🌐 Python | 📅 2026-10-03 - Cross-platform, fast, feature full, GPU based terminal emulator.
 * [iTerm](https://github.com/gnachman/iTerm2) ⭐ 18,111 | 🐛 80 | 🌐 Objective-C | 📅 2026-10-01
 
 ## Text Editors
@@ -160,7 +160,7 @@
 
 * [Bitbar](https://github.com/matryer/bitbar) ⭐ 18,069 | 🐛 188 | 🌐 Go | 📅 2024-09-10
 * [HexFriend](https://github.com/ridiculousfish/HexFiend/) ⭐ 5,896 | 🐛 79 | 🌐 Objective-C | 📅 2025-06-29 - Fast and clever open source hex editor.
-* [Gitify](https://github.com/manosim/gitify) ⭐ 5,361 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-01
+* [Gitify](https://github.com/manosim/gitify) ⭐ 5,361 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-01
 * [Bearded spice](https://github.com/beardedspice/beardedspice) ⭐ 2,841 | 🐛 400 | 🌐 Objective-C | 📅 2021-05-12
 * [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-) ⭐ 2,776 | 🐛 4 | 📅 2026-05-01.
 * [Lumen](https://github.com/anishathalye/lumen) ⭐ 2,427 | 🐛 1 | 🌐 Objective-C | 📅 2026-06-28
@@ -195,14 +195,14 @@
 
 ## Video
 
-* [IINA](https://github.com/lhc70000/iina) ⭐ 46,572 | 🐛 1,929 | 🌐 Swift | 📅 2026-10-03
+* [IINA](https://github.com/lhc70000/iina) ⭐ 46,574 | 🐛 1,929 | 🌐 Swift | 📅 2026-10-03
 * [MPV](https://mpv.io/)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 * [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
 
 ## Write
 
-* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,515 | 🐛 2 | 🌐 Swift | 📅 2026-09-20 - Notes manager.
+* [FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,517 | 🐛 2 | 🌐 Swift | 📅 2026-09-20 - Notes manager.
 * [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 * [Day One](http://dayoneapp.com/)
 * [MacDown](https://macdown.uranusjr.com/)
@@ -229,10 +229,10 @@
 
 ## Related
 
-* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 115,304 | 🐛 1,080 | 🌐 Swift | 📅 2026-10-03
-* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,620 | 🐛 357 | 📅 2026-09-10
+* [Awesome mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 115,307 | 🐛 1,080 | 🌐 Swift | 📅 2026-10-03
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,623 | 🐛 357 | 📅 2026-09-10
 * [My macOS](https://github.com/nikitavoloboev/my-mac-os) ⭐ 21,112 | 🐛 0 | 🌐 Rust | 📅 2026-04-15 - Curated list of tools & apps.
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,284 | 🐛 207 | 📅 2026-08-23
+* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,285 | 🐛 207 | 📅 2026-08-23
 * [Awesome macOS open source applications 2](https://github.com/jeffreyjackson/mac-apps) ⭐ 1,611 | 🐛 0 | 📅 2026-10-03
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)

@@ -61,11 +61,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:36:42Z",
-            "open_issues": 21339,
+            "last_commit": "2026-10-03T05:56:25Z",
+            "open_issues": 21341,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193370,
+            "stars": 193373,
             "topics": [
               "editor",
               "electron",
@@ -251,10 +251,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-03T02:44:17Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 35149,
+            "stars": 35151,
             "topics": [
               "c",
               "go",
@@ -362,7 +362,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-01T01:09:11Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "gitify-app",
             "repo": "gitify",
             "stars": 5361,
@@ -562,7 +562,7 @@
             "open_issues": 1929,
             "owner": "iina",
             "repo": "iina",
-            "stars": 46572,
+            "stars": 46574,
             "topics": [
               "hacktoberfest",
               "macos",
@@ -596,7 +596,7 @@
             "open_issues": 2,
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7515,
+            "stars": 7517,
             "topics": [
               "ios",
               "macos",
@@ -686,11 +686,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-03T04:26:43Z",
+            "last_commit": "2026-10-03T05:45:43Z",
             "open_issues": 1080,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 115304,
+            "stars": 115307,
             "topics": [
               "app",
               "apple",
@@ -732,7 +732,7 @@
             "open_issues": 357,
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50620,
+            "stars": 50623,
             "topics": [
               "applications",
               "apps",
@@ -797,7 +797,7 @@
             "open_issues": 207,
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19284,
+            "stars": 19285,
             "topics": [
               "apple",
               "awesome",
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:55:12.239Z",
+    "last_updated": "2026-10-03T07:04:58.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome macOS apps",
