@@ -52,7 +52,7 @@
         {
           "node_type": "item",
           "title": "VS Code",
-          "description": null,
+          "description": "microsoft/vscode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,11 +61,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:29:52Z",
-            "open_issues": 21292,
+            "last_commit": "2026-10-03T04:36:42Z",
+            "open_issues": 21339,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193357,
+            "stars": 193370,
             "topics": [
               "editor",
               "electron",
@@ -98,7 +98,7 @@
             "open_issues": 35,
             "owner": "sveinbjornt",
             "repo": "Platypus",
-            "stars": 3451,
+            "stars": 3450,
             "topics": [
               "application",
               "cocoa",
@@ -211,7 +211,7 @@
             "open_issues": 122,
             "owner": "sozercan",
             "repo": "kaset",
-            "stars": 2331,
+            "stars": 2333,
             "topics": [
               "apple-music",
               "liquid-glass",
@@ -250,11 +250,11 @@
             "id": 71056775,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T05:59:16Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-03T02:44:17Z",
+            "open_issues": 13,
             "owner": "kovidgoyal",
             "repo": "kitty",
-            "stars": 35147,
+            "stars": 35149,
             "topics": [
               "c",
               "go",
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "iTerm",
-          "description": null,
+          "description": "gnachman/iTerm2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -285,7 +285,7 @@
             "language": "Objective-C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-01T07:08:37Z",
-            "open_issues": 75,
+            "open_issues": 80,
             "owner": "gnachman",
             "repo": "iTerm2",
             "stars": 18111,
@@ -302,7 +302,7 @@
         {
           "node_type": "item",
           "title": "Bitbar",
-          "description": null,
+          "description": "matryer/xbar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -352,7 +352,7 @@
         {
           "node_type": "item",
           "title": "Gitify",
-          "description": null,
+          "description": "gitify-app/gitify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,7 +365,7 @@
             "open_issues": 13,
             "owner": "gitify-app",
             "repo": "gitify",
-            "stars": 5360,
+            "stars": 5361,
             "topics": [
               "bitbucket",
               "codeberg",
@@ -390,7 +390,7 @@
         {
           "node_type": "item",
           "title": "Bearded spice",
-          "description": null,
+          "description": "beardedspice/beardedspice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2775,
+            "stars": 2776,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -442,7 +442,7 @@
         {
           "node_type": "item",
           "title": "Lumen",
-          "description": null,
+          "description": "anishathalye/lumen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -455,7 +455,7 @@
             "open_issues": 1,
             "owner": "anishathalye",
             "repo": "lumen",
-            "stars": 2426,
+            "stars": 2427,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -476,7 +476,7 @@
             "open_issues": 13,
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 709,
+            "stars": 708,
             "topics": [
               "cache-cleaner",
               "developer-tools",
@@ -549,7 +549,7 @@
         {
           "node_type": "item",
           "title": "IINA",
-          "description": null,
+          "description": "iina/iina",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,11 +558,11 @@
             "id": 76838017,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T06:09:29Z",
-            "open_issues": 1941,
+            "last_commit": "2026-10-03T01:47:21Z",
+            "open_issues": 1929,
             "owner": "iina",
             "repo": "iina",
-            "stars": 46559,
+            "stars": 46572,
             "topics": [
               "hacktoberfest",
               "macos",
@@ -658,7 +658,7 @@
             "open_issues": 102,
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8722,
+            "stars": 8723,
             "topics": [
               "macos",
               "minimalistic",
@@ -677,7 +677,7 @@
         {
           "node_type": "item",
           "title": "Awesome mac",
-          "description": null,
+          "description": "jaywcjlove/awesome-mac",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,11 +686,11 @@
             "id": 63539055,
             "language": "Swift",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T07:15:33Z",
-            "open_issues": 1069,
+            "last_commit": "2026-10-03T04:26:43Z",
+            "open_issues": 1080,
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 115262,
+            "stars": 115304,
             "topics": [
               "app",
               "apple",
@@ -719,7 +719,7 @@
         {
           "node_type": "item",
           "title": "Awesome macOS open source applications",
-          "description": null,
+          "description": "serhii-londar/open-source-mac-os-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -729,10 +729,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-10T08:05:13Z",
-            "open_issues": 342,
+            "open_issues": 357,
             "owner": "serhii-londar",
             "repo": "open-source-mac-os-apps",
-            "stars": 50614,
+            "stars": 50620,
             "topics": [
               "applications",
               "apps",
@@ -772,7 +772,7 @@
             "open_issues": 0,
             "owner": "nikivdev",
             "repo": "code",
-            "stars": 21113,
+            "stars": 21112,
             "topics": [
               "agents",
               "autonomy",
@@ -784,7 +784,7 @@
         {
           "node_type": "item",
           "title": "Awesome macOS",
-          "description": null,
+          "description": "iCHAIT/awesome-macOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -794,10 +794,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-23T18:27:23Z",
-            "open_issues": 201,
+            "open_issues": 207,
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19281,
+            "stars": 19284,
             "topics": [
               "apple",
               "awesome",
@@ -813,7 +813,7 @@
         {
           "node_type": "item",
           "title": "Awesome macOS open source applications 2",
-          "description": null,
+          "description": "jeffreyjackson/mac-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -822,11 +822,11 @@
             "id": 33498049,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-29T02:24:00Z",
+            "last_commit": "2026-10-03T04:53:01Z",
             "open_issues": 0,
             "owner": "jeffreyjackson",
             "repo": "mac-apps",
-            "stars": 1609,
+            "stars": 1611,
             "topics": []
           },
           "first_seen": "2026-08-28T13:21:03.593Z"
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:30:34.777Z",
+    "last_updated": "2026-10-03T04:55:12.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome macOS apps",
@@ -845,10 +845,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-09T07:19:36Z",
-      "open_issues": 84,
+      "open_issues": 87,
       "owner": "linsa-io",
       "repo": "macos-apps",
-      "stars": 839,
+      "stars": 840,
       "topics": [
         "apps",
         "awesome",
